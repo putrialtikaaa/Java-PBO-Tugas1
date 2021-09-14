@@ -3,6 +3,6 @@
 		<title> PBO_Tugas1 </title>
 	</head>
 	<body>
-		<center> PBO Java B</center>
+		<center> PBO Java Kelas B</center>
 	</body>
 </html>
